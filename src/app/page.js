@@ -47,6 +47,9 @@ export default function Home() {
           >
             Read our docs
           </a>
+          <button className="bg-blue-500 py-2 px-3 rounded-lg">
+            Test
+          </button>
         </div>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
